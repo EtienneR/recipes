@@ -28,8 +28,8 @@ jobs:
     - run: npm run generate
 
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2.5.0
+      uses: peaceiris/actions-gh-pages@3
       env:
-        PERSONAL_TOKEN: 123
-        PUBLISH_BRANCH: gh-page
-        PUBLISH_DIR: ./public
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-page
+        publish_dir: ./public
