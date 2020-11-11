@@ -97,22 +97,37 @@ export default {
         this.recipes = this.recipes_origins
         return
       }
-      this.recipes = await this.$content('recipes')
-        .search('title', searchQuery)
-        .fetch()
-    },
-    async searchByType(searchByType) {
-      if (!searchByType) {
-        this.recipes = this.recipes_origins
-        return
-      }
-      this.recipes = await this.$content('recipes')
-        .where({ type: searchByType })
-        .fetch()
+      this.recipes = await this.search(searchQuery)
     },
   },
   mounted() {
     this.recipes_origins = this.recipes
+  },
+  methods: {
+    search(searchQuery) {
+      searchQuery = this.slugify(searchQuery)
+
+      return this.recipes_origins.filter((recipe) =>
+        this.slugify(recipe.title).includes(searchQuery)
+      )
+    },
+    slugify(str) {
+      const map = {
+        a: 'á|à|ã|â|À|Á|Ã|Â',
+        e: 'é|è|ê|É|È|Ê',
+        i: 'í|ì|î|Í|Ì|Î',
+        o: 'ó|ò|ô|õ|Ó|Ò|Ô|Õ',
+        u: 'ú|ù|û|ü|Ú|Ù|Û|Ü',
+        c: 'ç|Ç',
+        n: 'ñ|Ñ',
+      }
+
+      for (const pattern in map) {
+        str = str.replace(new RegExp(map[pattern], 'g'), pattern)
+      }
+
+      return str.toLowerCase().trim()
+    },
   },
   head() {
     return {
