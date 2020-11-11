@@ -48,8 +48,12 @@
       </b-col>
 
       <b-card-group class="col-12">
-        <div v-for="(recipe, index) in recipes" :key="index" class="col-md-4">
-          <b-card class="mb-4 bg-dark">
+        <div
+          v-for="(recipe, index) in recipes"
+          :key="index"
+          class="col-sm-4 col-12 px-0 px-sm-2"
+        >
+          <b-card class="mb-3 bg-dark">
             <NuxtLink :to="recipe.slug" class="text-white">
               <h2 class="h6 font-weight-bold">
                 {{ recipe.title }}
