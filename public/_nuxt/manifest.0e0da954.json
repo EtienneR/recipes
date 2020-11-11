@@ -1,0 +1,10 @@
+{
+  "name": "nuxt_cooking",
+  "short_name": "nuxt_cooking",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
