@@ -10,6 +10,9 @@ export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'Recettes',
+    htmlAttrs: {
+      lang: 'fr',
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -39,7 +42,12 @@ export default {
     'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    '@nuxtjs/pwa',
   ],
+
+  pwa: {
+    icon: false, // disables the icon module
+  },
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
   content: {},
