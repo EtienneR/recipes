@@ -9,12 +9,13 @@
           v-model="searchQuery"
           type="search"
           placeholder="Recherche par nom"
+          aria-label="Recherche par nom"
         >
         </b-form-input>
       </b-col>
     </div>
     <div class="row">
-      <b-col cols="12" class="text-center">
+      <b-col cols="12" class="d-none d-sm-block text-center">
         <h1>{{ title }} ({{ recipes.length }})</h1>
       </b-col>
 
@@ -28,7 +29,9 @@
             value="sucré"
             unchecked-value=""
           >
-            <b-badge variant="info" class="py-2 px-3">Sucré</b-badge>
+            <b-badge variant="info" class="py-2 px-3 font-weight-bold"
+              >Sucré</b-badge
+            >
           </b-form-checkbox>
 
           <b-form-checkbox

@@ -15,7 +15,7 @@
     </div>
     <article class="row">
       <b-col cols="12">
-        <h1 class="text-white bg-dark p-2 mb-4 text-center">
+        <h1 class="d-none d-sm-block text-white bg-dark p-2 mb-4 text-center">
           {{ recipe.title }}
         </h1>
         <div
