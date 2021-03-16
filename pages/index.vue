@@ -97,7 +97,19 @@ export default {
         this.recipes = this.recipes_origins
         return
       }
+
       this.recipes = await this.search(searchQuery)
+    },
+
+    async searchByType() {
+      if (!this.searchByType) {
+        this.recipes = this.recipes_origins
+        return
+      }
+
+      this.recipes = await this.recipes_origins.filter(
+        (recipe) => recipe.type === this.searchByType
+      )
     },
   },
   mounted() {
