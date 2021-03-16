@@ -6,7 +6,7 @@ ingredients:
     list:
       - 300 g de farine
       - 1 sachet de levure
-      - 200 g de sucre
+      - 175 g de sucre
       - 1 CàC de sel
       - 120 g de beurre mou
       - 2 oeufs
@@ -16,7 +16,7 @@ ingredients:
       - 50 cl de lait
       - 2 CàS d’arôme de vanille
       - 4 jaunes d’œuf
-      - 100 g de sucre
+      - 85 g de sucre
       - 40 g de farine
   - step: Pour dorer
     list:
