@@ -5,7 +5,12 @@
     </b-container>
     <footer class="text-center my-2 text-white d-print-none">
       <p>
-        <small>Les recettes présentes sont disponibles sur Github</small>
+        <small
+          >Les recettes présentes sont disponibles sur
+          <a href="https://github.com/EtienneR/recipes" target="_blank"
+            >Github</a
+          ></small
+        >
       </p>
     </footer>
   </div>
