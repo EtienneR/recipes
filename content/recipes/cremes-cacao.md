@@ -5,7 +5,7 @@ ingredients:
   - list:
     - 30 g de Maïzena
     - 20 g de cacao
-    - 50 g de sucre
+    - 40 g de sucre (de canne)
     - 50 cl de lait
     - 1 CàS de crème fraîche
 directions:

@@ -5,7 +5,7 @@ ingredients:
   - list:
     - 50 cl de lait
     - 30 g de Maïzena
-    - 60 g de sucre (canne ou blanc)
+    - 50 g de sucre (de canne)
     - 1 pincée de sel
     - 1 gousse de vanille (ou 2 CàS d’arôme de vanille)
 directions:
