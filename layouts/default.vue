@@ -7,7 +7,7 @@
       <p>
         <small
           >Les recettes présentes sont disponibles sur
-          <a href="https://github.com/EtienneR/recipes" target="_blank"
+          <a href="https://github.com/EtienneR/recipes" target="_blank" rel="noopener"`
             >Github</a
           ></small
         >
