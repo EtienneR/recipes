@@ -17,7 +17,9 @@ directions:
     - Dans un cul de poule ou un saladier, mélanger l'oeuf avec le sucre.
     - Ajouter le beurre fondu.
     - Ajouter la farine mélangée à la levure petit à petit puis la vanille et le miel puis les pépites de chocolat.
-    - Réserver la pâte à cookies au frigo pendant 10 min.
+    - Réserver la pâte à cookies au congélateur pendant 10 min.
     - Préchauffer le four à 180°C. Sur une plaque recouverte de papier cuisson, étaler les cookies à l’aide d’une cuillère à boule de glace remplie à raz bord.
     - Enfourner les cookies pendant 10 minutes à 180°C.
 ---
+
+Pour environ 12 cookies
