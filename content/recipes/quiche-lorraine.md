@@ -12,10 +12,10 @@ ingredients:
     - poivre
 directions:
   - list:
-    - Faites cuire les lardons puis ajoutez les herbes de provence.
-    - Mélangez tous les autres ingrédients dans un saladier.
-    - Préchauffez le four à 200°.
-    - Ajoutez les lardons au reste.
-    - Déposez le mélange sur la pâte brisée.
-    - Enfournez pendant 30 / 40 min (suivant la puissance du four).
+    - Faire cuire les lardons puis ajoutez les herbes de Provence.
+    - Mélanger tous les autres ingrédients dans un saladier.
+    - Préchauffer le four à 200°.
+    - Ajouter les lardons au reste.
+    - Déposer le mélange sur la pâte brisée.
+    - Enfourner pendant 30 / 40 min (suivant la puissance du four).
 ---
