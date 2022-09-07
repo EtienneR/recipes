@@ -10,7 +10,7 @@ ingredients:
       - 1 CàC de sel
       - 120 g de beurre mou
       - 2 oeufs
-      - 1 CàC d’arôme de vanille
+      - 1 CàS d’arôme de vanille
   - step: Pour la crème pâtissière
     list:
       - 50 cl de lait
