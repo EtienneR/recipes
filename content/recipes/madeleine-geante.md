@@ -15,7 +15,7 @@ directions:
       - Préchauffer le four à 180°C (chaleur tournante).
       - Dans un récipient, faire fondre le beurre. Réserver.
       - Dans un saladier, mélanger farine, levure chimique et sucre.
-      - Faire un puit afin d'y incorporer le beurre fondu.
+      - Faire un puit afin d'y incorporer le beurre fondu froid.
       - Ajouter le lait et les oeufs.
       - Mélanger jusqu'à obtenir une pate homogène et ajouter l'arôme d'amande amère.
       - Beurrer (avec le reste du beurre fondu) et fariner légerement le moule à madeleine du partage.
@@ -23,3 +23,5 @@ directions:
 ---
 
 Cette madeleine est réalisable avec le moule à madeleine du partage XXL de Fabrice le Bourdat (de la marque Matfer).
+
+Si remplacement de l'arôme d'amande par des zestes (citron ou orange), mettre un sachet entier de levure.
