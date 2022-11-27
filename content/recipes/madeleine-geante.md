@@ -5,7 +5,7 @@ ingredients:
   - list:
       - 175 g de farine
       - 1/2 sachet de levure chimique
-      - 125 g de sucre roux
+      - 100 g de sucre roux
       - 100 g de beurre fondu
       - 2 oeufs
       - 25 g de lait
