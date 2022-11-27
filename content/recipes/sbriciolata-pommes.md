@@ -14,7 +14,7 @@ ingredients:
       - 50 g de farine de sarrasin
       - 1/2 sachet de levure chimique
       - 130 g de sucre de canne
-      - 150 g de beurre froid
+      - 130 g de beurre froid
       - 2 œufs
 directions:
   - step: Garniture aux pommes
