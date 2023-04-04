@@ -1,5 +1,9 @@
 # nuxt_cooking
 
+## NodeJS
+
+Node >= 16
+
 ## Build Setup
 
 ```bash
