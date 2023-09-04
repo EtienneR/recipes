@@ -31,14 +31,14 @@ watch(query, async () => {
   </section>
 
   <div class="has-background-white">
-    <div class="columns is-centered my-3 is-variable is-0-mobile is-0-tablet">
+    <div class="mx-2 columns is-centered my-3 is-variable is-0-mobile is-0-tablet">
       <div class="column is-2">
         <input v-model="query" class="input" type="search" placeholder="Rechercher une recette"
           aria-describedby="Rechercher une recette" />
       </div>
     </div>
 
-    <div class="columns is-multiline is-variable is-0-mobile is-0-tablet is-3-desktop">
+    <div class="mx-2 pb-5 columns is-multiline is-variable is-0-mobile is-0-tablet is-3-desktop">
       <div v-for="recipe in recipes" class="column is-3">
         <div class="box">
           <article class="media">
