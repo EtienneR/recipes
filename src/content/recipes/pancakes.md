@@ -12,9 +12,9 @@ ingredients:
     - 1 sachet de sucre vanillé (facultatif)
 directions:
   - list:
-    - Mélangez la farine, la levure, le sel et le sucre dans un saladier
-    - Faites fondre le beurre et l’ajouter
-    - Battez les oeufs dans le lait et mélangez petit à petit à la farine
-    - Faites chauffer la poêle avec de la matière grasse et versez une louche de pâte
-    - Laissez la pâte cuire et retournez-la une fois que se forment des petites bulles
+    - Mélanger la farine, la levure, le sel et le sucre dans un saladier.
+    - Fondre le beurre et l’ajouter.
+    - Battre les oeufs dans le lait et mélanger petit à petit à la farine.
+    - Chauffer la poêle avec de la matière grasse et verser une louche de pâte.
+    - Laisser la pâte cuire et retourner-la une fois que se forment des petites bulles.
 ---

@@ -19,6 +19,6 @@ directions:
     - Ajouter les farines avec la levure délayée en plusieurs fois.
     - Concasser et ajouter le reste du chocolat en mélangeant délicatement (du bas vers le haut) puis réserver au frigo (environ 30 min).
     - Préchauffer le four à 170°C (chaleur tournante).
-    - Sur 2 plaques de cuissons recouvertes de papier de cuisson, former des boules à l'aide d'une cuillère à glace et les dispser en quinconce sur les plaques
-    - Enfourner 9 / 10 min 
+    - Sur 2 plaques de cuissons recouvertes de papier de cuisson, former des boules à l'aide d'une cuillère à glace et les disposer en quinconce sur les plaques
+    - Enfourner 9 / 10 min.
 ---
