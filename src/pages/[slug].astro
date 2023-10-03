@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import { getTypeClass} from '../helpers'
+import { getTypeClass } from "../helpers";
 
 export async function getStaticPaths() {
   const recipeEntries = await getCollection("recipes");
@@ -30,17 +30,17 @@ const hasContent: boolean = Content.length > 0 ? true : false;
       </div>
     </section>
 
-    <div class="container mt-3 content pb-5 ">
+    <div class="container mt-3 content px-1 pb-5">
       <div class="columns is-multiline is-variable is-0-mobile is-0-tablet">
         <section class="column is-one-third">
-          <h2 class="title has-text-weight-normal">
-            Ingrédients
-          </h2>
+          <h2 class="title is-4 has-text-weight-normal">Ingrédients</h2>
           {
             ingredients.map((ingredient: { step: string; list: string[] }) => (
               <div>
                 {ingredient.step && (
-                  <h3 class="mt-3 has-text-grey-dark">{ingredient.step}</h3>
+                  <h3 class="subtitle is-5 mt-3 has-text-grey-dark">
+                    {ingredient.step}
+                  </h3>
                 )}
                 <ul>
                   {ingredient.list.map((list: string) => (
@@ -51,15 +51,16 @@ const hasContent: boolean = Content.length > 0 ? true : false;
             ))
           }
         </section>
+        <hr />
         <section class="column is-two-third">
-          <h2 class="title has-text-weight-normal">
-            Instructions
-          </h2>
+          <h2 class="title is-4 has-text-weight-normal">Instructions</h2>
           {
             directions.map((directions: { step: string; list: string[] }) => (
               <div>
                 {directions.step && (
-                  <h3 class="mt-3 has-text-grey-dark">{directions.step}</h3>
+                  <h3 class="subtitle is-5 mt-3 has-text-grey-dark">
+                    {directions.step}
+                  </h3>
                 )}
                 <ol>
                   {directions.list.map((list: string) => (
