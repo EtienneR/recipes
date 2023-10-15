@@ -1,5 +1,5 @@
 ---
-title: Sbriciolata aux pommes (gateau crumble)
+title: Sbriciolata aux pommes (gâteau crumble)
 type: sucré
 ingredients:
   - step: Pour la garniture
@@ -11,26 +11,28 @@ ingredients:
   - step: Pour le gâteau
     list:
       - 350 g de farine de blé
-      - 50 g de farine de sarrasin (ou 50 de fariné de blé)
-      - 1/2 sachet de levure chimique
-      - 130 g de sucre de canne
-      - 120 g de beurre froid
+      - 50 g de farine de sarrasin (ou 50 g de farine de blé)
+      - 1⁄2 sachet de levure chimique
+      - 125 g de sucre de canne
+      - 110 g de beurre froid
       - 2 œufs
 directions:
   - step: Garniture aux pommes
     list:
+      - Dans un cul de poule, mélanger le sucre et la cannelle en poudre. Réserver.
       - Éplucher, vider et couper les pommes en petits cubes.
-      - Dans une grande poêle, faire fondre le beurre. Ajouter les pommes, le sucre et la cannelle. Cuire le tout pendant 6 min a feu vif et réserver.
-      - Préchauffer le four à 180°C.
+      - Mélanger les pommes avec le mélange précédent.
+      - Dans une grande poêle, faire fondre le beurre et y ajouter les pommes. Cuire le tout pendant 6 min à feu vif et réserver.
   - step: La pâte
     list:
-      - Mélanger les farines, la levure, le sucre, le beurre coupé en petits cubes.
+      - Préchauffer le four à 180°C (chaleur tournante).
+      - Chemiser un moule de 22 cm de papier sulfurisé.
+      - Dans un grand saladier, mélanger les farines, la levure, le sucre, le beurre coupé en petits cubes.
       - Ajouter les œufs et mélanger jusqu’à obtenir une pâte qui s’effrite.
   - step: Montage
     list:
-      - Chemiser un moule de 22 cm de papier sulfurisé.
       - Déposer la moitié de la pâte au fond du moule. Tasser à l’aide de vos doigts.
       - Déposer au centre les pommes en laissant un peu de pâte au bord.
-      - Recouvrir harmonieusement avec le reste de pâte.
+      - Recouvrir harmonieusement avec le reste de pâte (ne pas tasser).
       - Enfourner pour 25 min environ à 180°C.
 ---

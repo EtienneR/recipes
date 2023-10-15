@@ -14,10 +14,10 @@ ingredients:
     - 70 g de beurre pommade
 directions:
   - list:
-    - Préchauffer le four à 170°C.
+    - Préchauffer le four à 170°C (chaleur tournante).
     - Éplucher, vider et couper les pommes en petits cubes dans un cul de poule. Ajouter 2 CàS prélevées du sucre et la canelle. Bien mélanger. Réserver.
     - Dans un autre saladier blanchir les œufs entiers avec le sucre puis le lait.
     - Ajouter la farine et la levure et le beurre jusqu’à obtenir une pâte homogène.
-    - Incorporer les pommmes à la pâte et bien mélanger.
+    - Incorporer les pommes à la pâte et bien mélanger.
     - Transvaser dans un moule à cake (22 cm de longueur) préalablement beurré à l'aide d'une maryse et enfourner 55 minutes à 170°C.
 ---
