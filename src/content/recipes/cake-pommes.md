@@ -4,7 +4,7 @@ type: sucré
 ingredients:
   - list:
     - 3 pommes
-    - 1 CàS de canelle en poudre
+    - 1 CàS de cannelle en poudre
     - 90 g de sucre de canne
     - 3 œufs
     - 5 CàS de lait
