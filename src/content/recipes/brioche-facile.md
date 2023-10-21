@@ -17,7 +17,7 @@ directions:
       - Incorporer, les œufs et bien mélanger. Ajouter ensuite le beurre fondu et bien mélanger afin qu'il soit bien incorporé. Ajouter l'arôme de votre choix.
       - Quand la pâte est homogène, couvrir le saladier de film alimentaire et laisser lever à température ambiante une heure. Ensuite mettre au frais pour 12 à 24h (jusqu'à 36h).
       - Sortir la brioche et la verser sur un plan de travail un peu fariné (pas besoin de la travailler au contraire mieux ne pas trop la travailler. La diviser en trois et former des boules en repliant vers l'intérieur.
-      - Les mettre dans un moule à cake de 30 cm. Badigeonner avec le jaune d'oeuf.
+      - Les mettre dans un moule à cake de 30 cm. Badigeonner avec le jaune d'œuf.
       - Laisser lever dans le four éteint pendant une bonne heure.
       - Préchauffer le four à 190°C (sans la brioche) et enfourner pendant 20 minutes environ.
 ---
