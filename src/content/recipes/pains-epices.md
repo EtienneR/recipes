@@ -7,8 +7,8 @@ ingredients:
     - 2 tasses à café de lait
     - 125 g de farine de blé
     - 125 g de farine de seigle (ou 125 g de farine de blé)
-    - 1 CàC de poudre d’anis (ou mélange 1 CàC de 4 épices + 1 CàC de cannelle en poudre)
-    - 1⁄2 paquet de levure chimique
+    - 1 CàC de poudre d’anis (ou mélange 1 CàC de 4 épices + 1 CàC de cannelle moulue)
+    - 1⁄2 sachet de levure chimique
 directions:
   - list:
     - Chauffer doucement (sans bouillir) dans une casserole le miel et le lait.

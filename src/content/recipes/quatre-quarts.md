@@ -15,5 +15,5 @@ directions:
     - Fondre le beurre (à 100°C dans le four ou au bain Marie).
     - Mélanger à l’aide d’un batteur électrique les oeufs et le sucre.
     - Ajouter le beurre fondu puis le mélange farine / levure petit à petit et l’arôme de votre choix.
-    - Transvaser la pâte homogène dans un moule à cake préalablement beurré pendant 50 min à 160°C
+    - Transvaser la pâte homogène dans un moule à cake (22 cm de longueur) préalablement beurré pendant 50 min à 160°C
 ---

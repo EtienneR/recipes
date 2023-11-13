@@ -21,7 +21,7 @@ directions:
   - step: Préparation du biscuit
     list:
       - Dans un cul de poule, mélanger le beurre fondu avec le sucre et le cacao. Ajouter la farine et malaxer à la main afin d'obtenir une pâte de crumble.
-      - Dans un moule à cake (30 cm de longeur) préalablement chemisé de papier cuisson, presser légerement la pâte.
+      - Dans un moule à cake (22 cm de longeur) préalablement chemisé de papier cuisson, presser légerement la pâte.
   - step: Préparation de la garniture
     list:
       - Dans un saladier, mélanger la Maïzena et le sucre.
