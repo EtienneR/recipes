@@ -6,8 +6,7 @@ ingredients:
     - 75 g de beurre
     - 150 g de chocolat pâtissier
     - 2 œufs
-    - 40 g de sucre blanc
-    - 40 g de sucre roux
+    - 75 g de sucre de canne
     - 20 g de poudre de cacao non sucré
     - 80 g de farine de seigle
     - 1⁄2 sachet de levure chimique
