@@ -20,7 +20,7 @@ directions:
     list:
       - Préchauffer le four à 180°C.
       - Mélanger le beurre, le sucre et la farine. Puis bien malaxer la pâte et en faire une boule (avec les mains).
-      - Poser la pâte au fond d’un moule chemisé beurré et fariné (c’est mieux de mettre du papier de cuisson...). Étaler bien la pâte à l’aide de votre poing.
+      - Poser la pâte au fond d’un moule chemisé beurré et fariné (c’est mieux de mettre du papier de cuisson…). Étaler bien la pâte à l’aide de votre poing.
       - Enfourner pour 10 min (le sablé sera fondant).
   - step: Préparation du flan
     list:

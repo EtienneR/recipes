@@ -21,7 +21,7 @@ directions:
       - Préchauffez le four à 180°C.
       - Mélangez le beurre et le sucre de façon à obtenir une crème.
       - Ajoutez la farine puis bien malaxer la pâte et en faire une boule (avec les mains).
-      - Posez la pâte au fond d’un moule beurré et fariné (c’est mieux de mettre de mettre du papier de cuisson...). Étalez bien la pâte à l’aide de votre poing.
+      - Posez la pâte au fond d’un moule beurré et fariné (c’est mieux de mettre de mettre du papier de cuisson…). Étalez bien la pâte à l’aide de votre poing.
       - Enfournez pour entre 18 et 20 min (le sablé sera légèrement doré) pour un moule de 24*24 cm (ou inférieur).
       - Laissez refroidir pendant 1 heure environ à température ambiante.
   - step: Préparation du toffee (le caramel)

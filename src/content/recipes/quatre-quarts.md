@@ -8,7 +8,7 @@ ingredients:
     - sucre
     - farine (ou mix blé / seigle)
     - 1 sachet de levure
-    - arôme (vanille, fleur d’oranger, zestes...)
+    - arôme (vanille, fleur d’oranger, zestes…)
 directions:
   - list:
     - Peser l’ensemble des oeufs (environ 210 grammes pour des oeufs moyens). Enlevez 30 grammes pour le beurre et le sucre.
