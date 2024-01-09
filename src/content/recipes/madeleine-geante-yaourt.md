@@ -9,7 +9,7 @@ ingredients:
     - 1/2 sachet de levure
     - 1 pot de sucre roux
     - 1⁄2 pot d’huile
-    - 3 oeufs
+    - 3 œufs
     - 1 CàS d'arôme de vanille (facultatif)
 directions:
   - list:
