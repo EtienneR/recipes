@@ -14,7 +14,7 @@ directions:
   - list:
     - Préchauffer le four à 180°C
     - Fondre le beurre et le chocolat
-    - Dans un saladier et à l’aide d’un fouet, battre les œufs avec les sucres. Ajouter le chocolat et le beurre fondu puis le cacao en poudre et le duo farine et levure chimique
-    - Verser dans un moule de 20 x 20 cm chemisé
+    - Dans un saladier et à l’aide d’un fouet, battre les œufs avec le sucre. Ajouter le chocolat et le beurre fondu puis le cacao en poudre et le duo farine et levure chimique
+    - Verser dans un moule de 20 x 20 cm beurré et fariné ou chemisé de papier cuisson
     - Enfourner 14 minutes
 ---
