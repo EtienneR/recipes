@@ -20,7 +20,7 @@ directions:
     list:
       - Dans un cul de poule mélanger la farine et le sel. Faire un puit, le remplir avec l’huile et l’eau. Bien malaxer le mélange pour former une pâte homogène.
       - Laisser reposer 1h au sec et à l’abri (dans le four éteint par exemple).
- - step: Préparation de la garniture
+  - step: Préparation de la garniture
     list:
       - Préchauffer le four à 250°C en statique chaleur orientée vers le bas avec lèche frite posé en bas du four.
       - Dans un bol, mélanger la crème avec le poivre et la noix de muscade rapée.
