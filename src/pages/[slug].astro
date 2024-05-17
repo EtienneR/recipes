@@ -14,7 +14,7 @@ const { entry } = Astro.props;
 const { title, type, ingredients, directions } = entry.data;
 
 const { Content } = await entry.render();
-const hasContent: boolean = Content.length > 0 ? true : false;
+const hasContent = Content.length > 0 ? true : false;
 ---
 
 <Layout title={title}>
@@ -35,7 +35,7 @@ const hasContent: boolean = Content.length > 0 ? true : false;
         <section class="column is-one-third">
           <h2 class="title is-4 has-text-weight-normal">Ingrédients</h2>
           {
-            ingredients.map((ingredient: { step: string; list: string[] }) => (
+            ingredients.map((ingredient) => (
               <div>
                 {ingredient.step && (
                   <h3 class="subtitle has-text-weight-normal is-5 mt-3 has-text-grey-dark">
@@ -43,7 +43,7 @@ const hasContent: boolean = Content.length > 0 ? true : false;
                   </h3>
                 )}
                 <ul>
-                  {ingredient.list.map((list: string) => (
+                  {ingredient.list.map((list) => (
                     <li>{list}</li>
                   ))}
                 </ul>
@@ -55,7 +55,7 @@ const hasContent: boolean = Content.length > 0 ? true : false;
         <section class="column is-two-third">
           <h2 class="title is-4 has-text-weight-normal">Instructions</h2>
           {
-            directions.map((directions: { step: string; list: string[] }) => (
+            directions.map((directions) => (
               <div>
                 {directions.step && (
                   <h3 class="subtitle has-text-weight-normal is-5 mt-3 has-text-grey-dark">
@@ -63,7 +63,7 @@ const hasContent: boolean = Content.length > 0 ? true : false;
                   </h3>
                 )}
                 <ol>
-                  {directions.list.map((list: string) => (
+                  {directions.list.map((list) => (
                     <li>{list}</li>
                   ))}
                 </ol>
