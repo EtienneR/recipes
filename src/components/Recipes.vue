@@ -23,10 +23,10 @@ watch(query, async () => {
 <template>
   <section class="hero is-dark">
     <div class="hero-body has-text-centered">
-      <h1 class="title">
+      <h1 class="title has-text-weight-normal is-3">
         Recettes ({{ recipes.length }})
       </h1>
-      <p class="subtitle">Orientées débutant(e)s</p>
+      <p class="subtitle is-5">Orientées débutant(e)s</p>
     </div>
   </section>
 
@@ -50,7 +50,7 @@ watch(query, async () => {
               </div>
             </div>
             <div>
-              <span :class="getTypeClass(recipe.data.type)" class="tag has-text-light">
+              <span :class="getTypeClass(recipe.data.type)" class="tag has-text-white-bis">
                 {{ recipe.data.type }}
               </span>
             </div>

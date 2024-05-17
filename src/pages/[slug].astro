@@ -21,11 +21,11 @@ const hasContent: boolean = Content.length > 0 ? true : false;
   <article class="has-background-white">
     <section class={`hero mb-2 ${getTypeClass(type)}`}>
       <div class="hero-body has-text-centered">
-        <h1 class="title has-text-light">
+        <h1 class="title has-text-weight-normal has-text-light">
           {title}
         </h1>
         <p class="subtitle">
-          <span class="tag">{type}</span>
+          <span class="tag has-background-white">{type}</span>
         </p>
       </div>
     </section>
@@ -38,7 +38,7 @@ const hasContent: boolean = Content.length > 0 ? true : false;
             ingredients.map((ingredient: { step: string; list: string[] }) => (
               <div>
                 {ingredient.step && (
-                  <h3 class="subtitle is-5 mt-3 has-text-grey-dark">
+                  <h3 class="subtitle has-text-weight-normal is-5 mt-3 has-text-grey-dark">
                     {ingredient.step}
                   </h3>
                 )}
@@ -58,7 +58,7 @@ const hasContent: boolean = Content.length > 0 ? true : false;
             directions.map((directions: { step: string; list: string[] }) => (
               <div>
                 {directions.step && (
-                  <h3 class="subtitle is-5 mt-3 has-text-grey-dark">
+                  <h3 class="subtitle has-text-weight-normal is-5 mt-3 has-text-grey-dark">
                     {directions.step}
                   </h3>
                 )}
