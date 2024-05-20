@@ -24,7 +24,7 @@ directions:
   - step: Préparation de la migraine
     list:
       - Préchauffer le four à 210°C (chaleur tournante).
-      - Sur une feuille de papier cuisson (aux dimensions du moule), étaler la pâte à l'aide d'un rouleau à pâtisserie et transférer dans le moule de 28 cm.
+      - Sur une feuille de papier cuisson, étaler la pâte à l'aide d'un rouleau à pâtisserie et la transférer dans un moule de 28 cm.
       - Parsemer le fond de tarte des lardons.
       - Dans un récipient, battre les 4 œufs avec le poivre et la noix de muscade rapée. Ajouter la crème fraiche et bien remuer à nouveau.
       - Verser le mélange sur les lardons en prenant soin d'égaliser.
