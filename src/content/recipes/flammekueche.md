@@ -10,9 +10,9 @@ ingredients:
       - 15 cl d’eau tiède
   - step: Pour la garniture
     list:
-      - 1 petit oignon
-      - 120 g de lardons fumés
-      - 15 cl de crème épaisse
+      - 1 oignon
+      - 100 g de lardons fumés
+      - 3 CàS de crème épaisse
       - poivre
       - noix de muscade (facultatif)
 directions:
@@ -22,12 +22,12 @@ directions:
       - Laisser reposer 1h au sec et à l’abri (dans le four éteint par exemple).
   - step: Préparation de la garniture
     list:
-      - Préchauffer le four à 250°C en statique chaleur orientée vers le bas avec lèche frite posé en bas du four.
+      - Préchauffer le four à 240°C en statique chaleur orientée vers le bas avec lèche frite posé en bas du four.
       - Dans un bol, mélanger la crème avec le poivre et la noix de muscade rapée.
       - Eplucher et émincer le plus finement possible l’oignon.
   - step: Montage
     list:
       - Sur une feuille de papier sulfurisé, étaler la pâte le plus finement possible à l'aide d'un rouleau pour avoir une forme rectangulaire.
-      - Etaler la crème sur la pâte puis parsemer les oignons et les lardons.
-      - Transvaser la pâte avec son papier sulfurisé dans le lèche frite chaud et enfourner pour 10 min à 250°C.
+      - Etaler la crème sur la pâte puis parsemer les oignons puis les lardons.
+      - Transvaser la pâte avec son papier sulfurisé dans le lèche frite chaud et enfourner pour 10 min (en bas du four) à 240°C.
 ---
