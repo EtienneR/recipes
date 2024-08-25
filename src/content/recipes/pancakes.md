@@ -3,18 +3,20 @@ title: Pancakes
 type: sucré
 ingredients:
   - list:
-    - 200 g de farine
-    - 1 sachet de levure
-    - 30 g de sucre de canne
-    - 2 oeufs
-    - 50 g de beurre
-    - 30 cl de lait
-    - 1 sachet de sucre vanillé (facultatif)
+    - 180 g de blancs d'œufs (environ 5 œufs)
+    - 1 pincée de sel
+    - 320 g de farine
+    - 1/2 sachet de levure chimique
+    - 2 CàS de sucre roux
+    - 33 cl de lait entier (ou demi-écrémé)
+    - 4 CàS d'huile végétale neutre
+    - 1 CàC d'arôme de vanille (facultatif)
 directions:
   - list:
-    - Mélanger la farine, la levure, le sel et le sucre dans un saladier.
-    - Fondre le beurre et l’ajouter.
-    - Battre les oeufs dans le lait et mélanger petit à petit à la farine.
-    - Chauffer la poêle avec de la matière grasse et verser une louche de pâte.
-    - Laisser la pâte cuire et retourner-la une fois que se forment des petites bulles.
+    - Monter les blancs en neige avec la pincée de sel. Réserver.
+    - Dans un grand saladier, mélanger la farine, la levure, le sucre. Faire un puit afin d'y incorporer le lait, l'huile et l'arôme de vanille. Bien mélanger à l'aider d'un fouet.
+    - Incorporer délicatement les blancs au mélange à l'aide d'une maryse.
+    - Laisser reposer la pâte minimum 30 mins au frigo. 
+    - Chauffer la poêle avec de la matière grasse et verser une petite louche de pâte.
+    - Laisser la pâte cuire et retourner-la une fois que se forment des petites bulles (encore 10 secondes environs).
 ---
