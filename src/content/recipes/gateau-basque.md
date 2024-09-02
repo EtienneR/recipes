@@ -47,3 +47,5 @@ directions:
       - Dorer avec le jaune d’œuf sur du papier essuie tout. Puis, à l’aide d’une fourchette former des stries.
       - Cuire 40 mins à 160°C puis attendre que la gâteau refroidisse avant de le démouler.
 ---
+
+Pour une version aux pistaches : 120 g de pistaches mixées finement + 3 goutes d'arôme d'amande amère.
