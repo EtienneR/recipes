@@ -3,7 +3,7 @@ title: Far breton
 type: sucré
 ingredients:
   - list:
-    - 3 oeufs
+    - 3 œufs
     - 70 g de sucre
     - 130 g de farine
     - 1 CàS d'arôme de vanille ou 1⁄2 CàC de cannelle
