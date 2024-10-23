@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vue": "^4.5.1",
-    "astro": "^4.15.8",
+    "@astrojs/vue": "^4.5.2",
+    "astro": "^4.16.7",
     "bulma": "^1.0.2",
-    "vue": "^3.5.8"
+    "vue": "^3.5.12"
   },
   "devDependencies": {
     "@vite-pwa/astro": "^0.4.3"
