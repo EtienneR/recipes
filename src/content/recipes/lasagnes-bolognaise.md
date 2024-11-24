@@ -42,5 +42,4 @@ directions:
       - Dans un moule à hauts rebords (20 x 16 cm), badigonner le fond avec un peu de béchamel.
       - Disposer une couche de feuilles de pâtes. Badigonner de sauce bolognase puis de béchamel. Répêter l'opération. Au dernier étage, badigonner de béchamel.
       - Enfourner pour 30 mins à 180°C.
-  -
 ---
