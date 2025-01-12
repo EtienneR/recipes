@@ -3,10 +3,10 @@ title: Semoule au lait
 type: sucré
 ingredients:
   - list:
-    - 50 cl de lait entier
-    - 1 CàC de d'arôme liquide de vanille (facultatif)
-    - 30 g de sucre de canne
-    - 40 g de semoule fine
+    - 1 l de lait entier
+    - 1 CàS d'arôme de fleur d'oranger
+    - 60 g de sucre de canne
+    - 80 g de semoule fine
 directions:
   - list:
     - Dans une casserole, porter à ébullition le lait, l'arôme de vanille et le sucre.
