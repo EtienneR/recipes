@@ -34,6 +34,7 @@ directions:
       - Faire épaissir à feux moyen tout en continuant de mélanger délicatement au fouet.
       - Une fois épaissie, hors du feu, incorporer les morceaux de beurre et bien mélanger.
   - step: Montage
+    list:
       - Verser la crème sur le fond de tarte. Lisser la crème à l'aide d'une maryse ou d'une spatule coudée.
       - Réserver 1 h au frais pour que la crème se fige. Puis sortir, démouler sur un plat de service et conserver à température ambiante. 
 ---
