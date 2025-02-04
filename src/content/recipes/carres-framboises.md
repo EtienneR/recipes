@@ -7,7 +7,7 @@ ingredients:
       - 100 g de beurre mou
       - 45 g de sucre de canne
       - 150 g de farine
-  - step: Pour le flan au citron
+  - step: Pour le flan aux framboises
     list:
       - 400 / 450 g de framboises congelées  
       - 3 œufs

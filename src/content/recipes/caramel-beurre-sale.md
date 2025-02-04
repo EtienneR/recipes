@@ -1,5 +1,5 @@
 ---
-title: Caramel beurre salé
+title: Caramel au beurre salé
 type: sucré
 ingredients:
   - list:
