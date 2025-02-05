@@ -7,10 +7,9 @@ ingredients:
       - 1⁄2 sachet de levure chimique
       - 100 g de sucre roux
       - 50 g de noix de coco rapée
-      - 1 CàC de poudre d'anis
       - 100 g d'huile de colza ou 100 g de beurre fondu
       - 2 œufs
-      - 25 g de lait de coco
+      - 50 g de lait de coco
       - 1 CàS d'arôme de vanille
 directions:
   - list:
