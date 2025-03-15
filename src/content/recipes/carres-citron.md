@@ -19,7 +19,7 @@ directions:
     list:
       - Préchauffer le four à 170°C.
       - Dans un cul de poule, mélanger le sucre avec les zestes du citron.
-      - Mélangez le beurre, le sucre et la farine. Puis bien malaxer la pâte et en faire une boule (avec les mains).
+      - Mélanger le beurre, le sucre et la farine. Puis bien malaxer la pâte et en faire une boule (avec les mains).
       - Poser la pâte au fond d’un moule carré de 20 cm chemisé de papier de cuisson. Étaler bien la pâte à l’aide de votre poing.
       - Enfourner pour 20 min à 170°C (le sablé sera légèrement doré).
   - step: Préparation du flan au citron

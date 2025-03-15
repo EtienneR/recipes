@@ -14,9 +14,9 @@ ingredients:
 directions:
   - list:
     - Faites fondre le chocolat au bain Marie.
-    - Préchauffez votre four à 180°C.
-    - Dans un saladier, mélangez tous ces ingrédients jusqu’à obtenir une pâte homogène.
-    - Ajoutez le chocolat liquide à la pâte et remuez de nouveau.
-    - Versez votre pâte dans un moule à manquer beurré.
+    - Préchauffer votre four à 180°C.
+    - Dans un saladier, mélanger tous ces ingrédients jusqu’à obtenir une pâte homogène.
+    - Ajouter le chocolat liquide à la pâte et remuer de nouveau.
+    - Verser votre pâte dans un moule à manquer beurré.
     - Enfourner à 180°C pendant 30 min.
 ---

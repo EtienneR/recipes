@@ -15,6 +15,6 @@ directions:
       - Mélanger l'ensemble doucement avec la cuillère à soupe puis continuer à pétrir avec vos mains pendant cinq minutes jusqu’à ce que la pâte soit homogène et se détache des mains. Si la pâte est top collante, ajouter de la farine ou si à l'inverse, elle s'effrite, ajouter un peu d'eau.
       - Laisser reposer la pâte dans un endroit chaud et à l'abris des courants d'air (dans le four éteint par exemple) minimum quatres heures recouvert d’un torchon propre.
       - Préchauffer votre four à 210°C en chaleur statique propulsée par le bas.
-      - Applatisser la pâte et ajouter un peu de semoule fine ou de la farine puis étalez la pâte à l’aide d’un rouleau à pâtisserie ou à la main dans un moule à pizza. 
+      - Applatisser la pâte et ajouter un peu de semoule fine ou de la farine puis étalr la pâte à l’aide d’un rouleau à pâtisserie ou à la main dans un moule à pizza. 
       - Garnir la pizza à votre convenance puis l'enfourner à 210°C sur la dernière grille du bas pendant 15 min.
 ---

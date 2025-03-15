@@ -13,6 +13,6 @@ directions:
     - Préchauffer le four à 200°C.
     - Faire fondre le beurre.
     - Avec une spatule, mélanger dans un saladier le sucre, la farine et les amandes.
-    - Ajouter le beurre fondu refroidi et les blanc d’œufs au mélange et remuez jusqu’à ce que la pâte devienne homogène.
+    - Ajouter le beurre fondu refroidi et les blanc d’œufs au mélange et remuer jusqu’à ce que la pâte devienne homogène.
     - Remplir le moule et enfourner 15 min à 180°C.
 ---

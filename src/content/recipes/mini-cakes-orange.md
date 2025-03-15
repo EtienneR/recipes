@@ -13,11 +13,11 @@ ingredients:
 directions:
   - list:
     - Préchauffer le four à 180°C.
-    - Prélevez le zeste de l’orange et mélanger avec le sucre.
+    - Prélever le zeste de l’orange et mélanger avec le sucre.
     - Dans un cul de poule, mélanger le beurre bien mou, le sucre et les zestes de l’orange.
     - Ajouter un par un les oeufs, bien mélanger pour obtenir un mélange homogène.
     - Ajouter la farine et la levure en plusieurs temps.
     - Ajouter le jus de la demie orange puis le miel.
     - Verser la pâte dans les emprunts du moule à financiers préalablement beurré.
-    - Enfournez pendant 15 min à 180°C.
+    - Enfourner pendant 15 min à 180°C.
 ---

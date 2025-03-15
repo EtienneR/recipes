@@ -16,5 +16,5 @@ directions:
     - Ajouter la farine en plusieurs fois (afin d’éviter l’apparition de grumeaux).
     - Délayer petit à petit le lait.
     - Ajouter la vanille ou la cannelle. La pâte doit être homogène.
-    - Une fois le four préchauffé, verser le beurre jusqu’à ce qu’il fonde complètement. Ajoutez la pâte et enfourner 35 minutes.
+    - Une fois le four préchauffé, verser le beurre jusqu’à ce qu’il fonde complètement. Ajouter la pâte et enfourner 35 minutes.
 ---

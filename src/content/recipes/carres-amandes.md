@@ -23,7 +23,7 @@ directions:
       - Enfourner pour 15 min (le sablé sera légèrement doré)
   - step: Préparation des amandes caramélisées
     list:
-      - Dans une casserole, faites chauffer la crème fraîche, le miel, le beurre et le sucre à feu doux
-      - Dès que le mélange est lisse, ajoutez les amandes effilées
+      - Dans une casserole, faire chauffer la crème fraîche, le miel, le beurre et le sucre à feu doux
+      - Dès que le mélange est lisse, ajouter les amandes effilées
       - Répartir le mélange sur le biscuit et remettre au four 20 minutes à 180°C (jusqu’à ce que les amandes soient dorées)
 ---
