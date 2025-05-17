@@ -11,7 +11,7 @@ ingredients:
     - 1 pincée de sel
     - 1 CàC de mélange 4 épices
     - 1 CàC de cannelle moulue
-    - 4 oeufs
+    - 4 œufs
     - 12 cl d'huile neutre (colza, tournesol)
     - 30 g de noix hachées (facultatif)
     - 30 g de raisins secs (facultatif)
@@ -20,7 +20,7 @@ directions:
     - Eplucher puis râper les carottes (le plus finement possible). Réserver.
     - Préchauffer le four à 180°C.
     - Dans un grand saladier, mélanger farines et la levure, le sucre, la pincée de sel et les épices.
-    - Incorporer un à un les oeufs.
+    - Incorporer un à un les œufs.
     - Ajouter l'huile et remuer délicatement jusqu'à ce que le mélange devienne homogène.
     - Incorporer les carottes râpées en trois fois puis les noix hachées et les raisins secs.
     - Beurrer et fariner un moule à cake (22 cm de longueur) afin d'y transvaser la pâte à l'aide d'une maryse.

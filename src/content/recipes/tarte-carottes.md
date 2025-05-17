@@ -11,7 +11,7 @@ ingredients:
       - 80 ml d'eau
   - step: Pour l'appareil aux carottes
     list:
-      - 1 Kg de carottes
+      - 1 kg de carottes
       - 4 CàS de crème fraîche
       - sel
       - poivre
