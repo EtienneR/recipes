@@ -19,7 +19,7 @@ ingredients:
 directions:
   - step: Préparation de la pâte sablée
     list:
-      - Dans un saladier, mélanger l'œuf le sucre, le sel et la poudre d'amande.
+      - Dans un saladier, mélanger l'œuf le sucre et le sel.
       - Ajouter la farine et bien mélanger à la main.
       - Ajouter le beurre mou et malaxer jusqu'à obtenir une pâte homogène
       - Réserver la pâte écrasée au frais 1 h environ.
