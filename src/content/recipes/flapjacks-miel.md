@@ -15,5 +15,5 @@ directions:
     - Un fois la préparation fondue, hors du feu, ajouter et bien mélanger les flocons d’avoine.
     - Graisser un moule carré de 20 cm. Répartir la préparation et bien tasser.
     - Enfourner pour 25 min à 160°C (chaleur tournante).
-    - Laisser redroidir et démouler délicatement. A l’aide d’un couteau bien aiguiser, tailler en carrés (4x4).
+    - Laisser refroidir et démouler délicatement. A l’aide d’un couteau bien aiguiser, tailler en carrés (4x4).
 ---
