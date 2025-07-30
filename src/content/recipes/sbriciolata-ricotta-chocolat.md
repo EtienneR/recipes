@@ -20,7 +20,7 @@ directions:
     list:
       - A l’aide d’un couteau bien aiguissé, découper des pépites de chocolat. Réserver.
       - Dans un grand saladier, mélanger la farine, la levure, le sucre, la vanille, le beurre coupé en petits cubes. Bien malaxer la pâte.
-      - Ajouter les œufs et mélanger jusqu’à obtenir une pâte qui s’effrite.
+      - Ajouter l'œuf et mélanger jusqu’à obtenir une pâte qui s’effrite.
       - Ajouter délicatement les pépites de chocolat. Réserver.
   - step: Garniture
     list:
