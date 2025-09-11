@@ -6,7 +6,7 @@ ingredients:
     - 1 pot de yaourt nature non sucré (mesure)
     - 1 pot de farine de seigle (ou autre farine)
     - 2 pots de farine de blé
-    - 1/2 sachet de levure
+    - 1⁄2 sachet de levure
     - 1 pot de sucre roux
     - 1⁄2 pot d’huile
     - 3 œufs
