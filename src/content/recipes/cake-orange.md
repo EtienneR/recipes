@@ -14,7 +14,7 @@ directions:
   - list:
     - Préchauffer le four à 170°C.
     - Zester les oranges sur le sucre et mélanger.
-    - Mélanger le sucre / zestes, les œufs afin d’obtenir un mélange mousseux puis le lait, la farine et la levure, le beurre et le jus des oranges obtenir une pâte homogène.
-    - Transvaser dans un moule à cake (22 cm de longueur) préalablement beurré à l'aide d'une maryse et enfourner 55 minutes à 170°C.
+    - Mélanger le sucre / zestes, les œufs afin d’obtenir un mélange mousseux puis le lait, la farine et la levure, le beurre et le jus des oranges obtenir une pâte homogène  (pas plus longtemps).
+    - Transvaser dans un moule à cake (22 cm de longueur) préalablement beurré et enfourner 55 mins à 170°C (chaleur tournante).
 ---
 
