@@ -16,7 +16,7 @@ ingredients:
       - poivre
       - noix de muscade rapée (facultatif)
       - herbes de Provence (facultatif)
-      - 3 œufs
+      - 2 œufs
 directions:
   - step: Préparation de la pâte brisée
     list:
