@@ -28,10 +28,10 @@ directions:
   - step: La pâte
     list:
       - Préchauffer le four à 180°C.
-      - Beurre et fariner un moule de 20 cm.
+      - Beurrer et fariner un moule de 20 cm.
       - Dans un grand saladier, mélanger les farines, la levure, la poudre de noix le sucre, 
       - Ajouter le beurre préalablemment coupé en petits cubes et l’eau de fleur d’oranger.
-      - Ajouter les œufs et mélanger jusqu’à obtenir une pâte qui s’effrite (ne surtout pas l’amalgamer).
+      - Ajouter l'œufs et mélanger jusqu’à obtenir une pâte qui s’effrite (ne surtout pas l’amalgamer).
   - step: Montage
     list:
       - Déposer la moitié de la pâte au fond du moule. Tasser à l’aide de vos doigts.
