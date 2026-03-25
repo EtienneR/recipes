@@ -1,20 +1,31 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import { getCollection } from "astro:content";
+import type { GetStaticPaths } from "astro";
+import type { CollectionEntry } from "astro:content";
+import { getCollection, render } from "astro:content";
 import { getTypeClass } from "../helpers";
+import Layout from "../layouts/Layout.astro";
 
-export async function getStaticPaths() {
-  const recipeEntries = await getCollection("recipes");
+import type { z } from "zod";
+import type { directionsSchema, ingredientSchema } from "../config";
+
+type Ingredient = z.infer<typeof ingredientSchema>;
+type Direction = z.infer<typeof directionsSchema>;
+
+export const getStaticPaths = (async () => {
+  const recipeEntries: CollectionEntry<"recipes">[] =
+    await getCollection("recipes");
   return recipeEntries.map((entry) => ({
-    params: { slug: entry.slug },
+    params: { slug: entry.id.replace(/\.mdx?$/, "") },
     props: { entry },
   }));
-}
-const { entry } = Astro.props;
-const { title, type, ingredients, directions } = entry.data;
+}) satisfies GetStaticPaths;
 
-const { Content } = await entry.render();
-const hasContent = Content.length > 0 ? true : false;
+type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]["props"];
+
+const { entry } = Astro.props as Props; // 👈 entry est maintenant typé
+const { title, type, ingredients, directions } = entry.data;
+const { Content } = await render(entry);
+const hasContent = Boolean(entry.body?.trim());
 ---
 
 <Layout title={title}>
@@ -35,7 +46,7 @@ const hasContent = Content.length > 0 ? true : false;
         <section class="column is-one-third">
           <h2 class="title is-4 has-text-weight-normal">Ingrédients</h2>
           {
-            ingredients.map((ingredient) => (
+            ingredients.map((ingredient: Ingredient) => (
               <div>
                 {ingredient.step && (
                   <h3 class="subtitle has-text-weight-normal is-5 mt-3 has-text-grey-dark">
@@ -55,7 +66,7 @@ const hasContent = Content.length > 0 ? true : false;
         <section class="column is-two-third">
           <h2 class="title is-4 has-text-weight-normal">Instructions</h2>
           {
-            directions.map((directions) => (
+            directions.map((directions: Direction) => (
               <div>
                 {directions.step && (
                   <h3 class="subtitle has-text-weight-normal is-5 mt-3 has-text-grey-dark">

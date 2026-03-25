@@ -1,56 +1,73 @@
 <script setup>
-import { ref, toRef, watch } from 'vue';
-import { getTypeClass } from '../helpers';
+import { ref, computed } from "vue";
+import { getTypeClass } from "../helpers";
 
 const props = defineProps({
-  recipes: Array,
-})
-let recipes = toRef(props, 'recipes')
-const query = ref('');
-const recipes_origins = props.recipes;
+  recipes: {
+    type: Array,
+    default: () => [],
+  },
+});
 
-watch(query, async () => {
-  if (query.value) {
-    recipes = recipes_origins.filter((recipe) =>
-      recipe.data.title.toLowerCase().includes(query.value.toLowerCase())
-    )
-  } else {
-    recipes = recipes_origins;
-  }
-})
+const query = ref("");
+
+const filteredRecipes = computed(() => {
+  if (!query.value) return props.recipes;
+
+  const q = query.value.toLowerCase();
+  return props.recipes.filter((recipe) =>
+    recipe.data.title.toLowerCase().includes(q),
+  );
+});
 </script>
 
 <template>
   <section class="hero is-dark">
     <div class="hero-body has-text-centered">
       <h1 class="title has-text-weight-normal is-3">
-        Recettes ({{ recipes.length }})
+        Recettes ({{ filteredRecipes.length }})
       </h1>
       <p class="subtitle is-5">Orientées débutant(e)s</p>
     </div>
   </section>
 
   <div class="has-background-white">
-    <div class="mx-2 columns is-centered my-3 is-variable is-0-mobile is-0-tablet">
+    <div
+      class="mx-2 columns is-centered my-3 is-variable is-0-mobile is-0-tablet"
+    >
       <div class="column is-2">
-        <input v-model="query" class="input" type="search" placeholder="Rechercher une recette"
-          aria-describedby="Rechercher une recette" />
+        <input
+          v-model="query"
+          class="input"
+          type="search"
+          placeholder="Rechercher une recette"
+          aria-label="Rechercher une recette"
+        />
       </div>
     </div>
 
-    <div class="mx-2 pb-5 columns is-multiline is-variable is-0-mobile is-0-tablet is-3-desktop">
-      <div v-for="recipe in recipes" class="column is-3">
+    <div
+      class="mx-2 pb-5 columns is-multiline is-variable is-0-mobile is-0-tablet is-3-desktop"
+    >
+      <div
+        v-for="recipe in filteredRecipes"
+        :key="recipe.id"
+        class="column is-3"
+      >
         <div class="box">
           <article class="media">
             <div class="media-content">
               <div class="content">
                 <p>
-                  <a :href="recipe.slug">{{ recipe.data.title }}</a>
+                  <a :href="recipe.id">{{ recipe.data.title }}</a>
                 </p>
               </div>
             </div>
             <div>
-              <span :class="getTypeClass(recipe.data.type)" class="tag has-text-white-bis">
+              <span
+                :class="getTypeClass(recipe.data.type)"
+                class="tag has-text-white-bis"
+              >
                 {{ recipe.data.type }}
               </span>
             </div>
