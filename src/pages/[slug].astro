@@ -6,7 +6,7 @@ import { getTypeClass } from "../helpers";
 import Layout from "../layouts/Layout.astro";
 
 import type { z } from "zod";
-import type { directionsSchema, ingredientSchema } from "../config";
+import type { directionsSchema, ingredientSchema } from "../content.config";
 
 type Ingredient = z.infer<typeof ingredientSchema>;
 type Direction = z.infer<typeof directionsSchema>;
@@ -22,7 +22,7 @@ export const getStaticPaths = (async () => {
 
 type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]["props"];
 
-const { entry } = Astro.props as Props; // 👈 entry est maintenant typé
+const { entry } = Astro.props as Props;
 const { title, type, ingredients, directions } = entry.data;
 const { Content } = await render(entry);
 const hasContent = Boolean(entry.body?.trim());
