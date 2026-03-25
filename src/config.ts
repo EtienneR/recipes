@@ -3,7 +3,10 @@ import { z } from 'zod';
 import { glob } from 'astro/loaders';
 
 const recipes = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/recipes' }),
+  loader: glob({ 
+    pattern: '**/*.md', 
+    base: new URL('./src/content/recipes', import.meta.url).pathname
+  }),
   schema: z.object({
     title: z.string(),
     type: z.string(),
