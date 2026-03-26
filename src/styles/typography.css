@@ -1,0 +1,83 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 2.5rem;
+  line-height: 1.25;
+}
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+p {
+  line-height: 1.5;
+}
+
+ul li {
+  list-style: disc;
+}
+
+ol li {
+  list-style: decimal;
+}
+
+li {
+  margin-left: var(--space-md);
+}
+
+p,
+li,
+input {
+  font-family: var(--font-heading);
+  letter-spacing: -0.01em;
+}
+
+/* Text highlights */
+.highlight {
+  position: relative;
+  z-index: 1;
+}
+
+.highlight::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 12px;
+  left: 0;
+  bottom: 5px;
+  z-index: -1;
+}
+
+.highlight-primary::after {
+  background-color: var(--primary);
+}
+
+.highlight-secondary::after {
+  background-color: var(--secondary);
+}
+
+.highlight-yellow::after {
+  background-color: var(--yellow);
+}
+
+.highlight-accent::after {
+  background-color: var(--accent);
+}
+
+.text-center {
+  text-align: center;
+}

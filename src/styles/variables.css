@@ -1,0 +1,41 @@
+/** Inspired by https://github.com/Walikuperek/Neo-brutalism-CSS/tree/master/styles **/
+
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+:root {
+  /* Colors */
+  --primary: #ff6b35;
+  --secondary: #3a86ff;
+  --accent: #8338ec;
+  --dark: #141414;
+  --light: #f8f9fa;
+  --yellow: #ffbe0b;
+  --green: #06d6a0;
+
+  /* Background colors */
+  --bg-card-1: #ffe6d8;
+  --bg-card-2: #d8eefe;
+  --bg-card-3: #e9d8ff;
+  --bg-card-4: #d8fff1;
+  --bg-card-5: #ffefd8;
+  --bg-card-6: #d8ffea;
+
+  /* Typography */
+  --font-heading: "Space Grotesk", sans-serif;
+
+  /* Borders */
+  --border-width: 3px;
+  --border-width-bold: 4px;
+
+  /* Shadows */
+  --shadow-offset: 4px;
+  --shadow-offset-large: 8px;
+
+  /* Spacing */
+  --space-xs: 10px;
+  --space-sm: 15px;
+  --space-md: 20px;
+  --space-lg: 30px;
+  --space-xl: 40px;
+  --space-xxl: 80px;
+}

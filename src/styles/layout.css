@@ -1,0 +1,112 @@
+body {
+  background-image: radial-gradient(var(--dark) 1px, var(--light) 1px);
+  background-size: 1rem 1rem;
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 35fr 65fr;
+  gap: 1.5rem;
+
+  width: 90%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.bloc-principal h2,
+.bloc-secondaire h2 {
+  margin: 0 0 1rem 0;
+}
+
+.bloc-principal h3,
+.bloc-secondaire h3 {
+  margin: 1rem 0;
+}
+
+.container-lg {
+  width: 95%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Grid layouts */
+.grid {
+  display: grid;
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-cols-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.grid-cols-auto {
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.gap-grid-md {
+  gap: var(--space-lg);
+}
+
+/* Spacing utilities */
+.mt-sm {
+  margin-top: var(--space-sm);
+}
+
+.mt-md {
+  margin-top: var(--space-md);
+}
+
+.mt-lg {
+  margin-top: var(--space-lg);
+}
+
+.mt-xl {
+  margin-top: var(--space-xl);
+}
+
+.mb-sm {
+  margin-bottom: var(--space-sm);
+}
+
+.mb-md {
+  margin-bottom: var(--space-md);
+}
+
+.mb-lg {
+  margin-bottom: var(--space-lg);
+}
+
+.mb-xl {
+  margin-bottom: var(--space-xl);
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .container {
+    grid-template-columns: 1fr;
+    width: 94%;
+  }
+
+  .grid-cols-2,
+  .grid-cols-3,
+  .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+}

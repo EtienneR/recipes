@@ -1,5 +1,5 @@
 ---
-import "bulma/css/bulma.min.css";
+import "../styles/global.css";
 import { pwaInfo } from "virtual:pwa-info";
 
 export interface Props {
@@ -27,30 +27,26 @@ const currentRecipe = Astro.url.toString().split("/")[4];
   <body>
     <slot />
 
-    <footer class="has-background-light py-4">
-      <div class="content is-small has-text-centered">
-        <p>
-          {
-            currentRecipe && (
-              <Fragment
-                set:html={`<a href="${Astro.url.origin}${base}">Accueil</a> -`}
-              />
-            )
-          }
-           Les recettes sont disponibles sur
-          <a
-            href="https://github.com/EtienneR/recipes/"
-            target="_blank"
-            rel="noopener">Github</a
-          >
-           - Site propulsé par
-          <a href="https://astro.build" target="_blank" rel="noopener"
-            >{Astro.generator}</a
-          >
-           et mise en page avec
-          <a href="https://bulma.io" target="_blank" rel="noopener">Bulma</a>
-        </p>
-      </div>
+    <footer class="footer text-center">
+      <p>
+        {
+          currentRecipe && (
+            <Fragment
+              set:html={`<a href="${Astro.url.origin}${base}">Accueil</a> -`}
+            />
+          )
+        }
+        Les recettes sont disponibles sur
+        <a
+          href="https://github.com/EtienneR/recipes/"
+          target="_blank"
+          rel="noopener">Github</a
+        >
+        - Site propulsé par
+        <a href="https://astro.build" target="_blank" rel="noopener"
+          >{Astro.generator}</a
+        >
+      </p>
     </footer>
   </body>
 </html>
