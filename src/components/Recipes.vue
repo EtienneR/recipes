@@ -1,6 +1,5 @@
 <script setup>
-import { ref, computed } from "vue";
-import { getTypeClass } from "../helpers";
+import { computed, ref } from "vue";
 
 const props = defineProps({
   recipes: {
@@ -11,68 +10,49 @@ const props = defineProps({
 
 const query = ref("");
 
+const normalize = (str) =>
+  str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
 const filteredRecipes = computed(() => {
   if (!query.value) return props.recipes;
-
-  const q = query.value.toLowerCase();
+  const q = normalize(query.value);
   return props.recipes.filter((recipe) =>
-    recipe.data.title.toLowerCase().includes(q),
+    normalize(recipe.data.title).includes(q),
   );
 });
 </script>
 
 <template>
-  <section class="hero is-dark">
-    <div class="hero-body has-text-centered">
-      <h1 class="title has-text-weight-normal is-3">
-        Recettes ({{ filteredRecipes.length }})
+  <section class="hero-content">
+    <div class="text-center">
+      <h1>
+        <span class="highlight highlight-primary">
+          Recettes ({{ filteredRecipes.length }})</span>
       </h1>
-      <p class="subtitle is-5">Orientées débutant(e)s</p>
+      <input
+        v-model="query"
+        class="mt-sm neo-bubble"
+        type="search"
+        placeholder="Rechercher une recette"
+        aria-label="Rechercher une recette"
+      />
     </div>
   </section>
 
-  <div class="has-background-white">
-    <div
-      class="mx-2 columns is-centered my-3 is-variable is-0-mobile is-0-tablet"
-    >
-      <div class="column is-2">
-        <input
-          v-model="query"
-          class="input"
-          type="search"
-          placeholder="Rechercher une recette"
-          aria-label="Rechercher une recette"
-        />
-      </div>
-    </div>
-
-    <div
-      class="mx-2 pb-5 columns is-multiline is-variable is-0-mobile is-0-tablet is-3-desktop"
-    >
+  <div class="container-lg">
+    <div class="grid grid-cols-3 gap-grid-md">
       <div
         v-for="recipe in filteredRecipes"
         :key="recipe.id"
-        class="column is-3"
+        class="p-md border"
       >
-        <div class="box">
-          <article class="media">
-            <div class="media-content">
-              <div class="content">
-                <p>
-                  <a :href="recipe.id">{{ recipe.data.title }}</a>
-                </p>
-              </div>
-            </div>
-            <div>
-              <span
-                :class="getTypeClass(recipe.data.type)"
-                class="tag has-text-white-bis"
-              >
-                {{ recipe.data.type }}
-              </span>
-            </div>
-          </article>
-        </div>
+        <article>
+          <p>
+            <a :href="recipe.id" class="neo-btn neo-btn-lg neo-btn-secondary">{{
+              recipe.data.title
+            }}</a>
+          </p>
+        </article>
       </div>
     </div>
   </div>
