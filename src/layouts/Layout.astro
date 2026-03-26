@@ -13,7 +13,7 @@ const currentRecipe = Astro.url.toString().split("/")[4];
 ---
 
 <!doctype html>
-<html lang="fr" class="has-background-light">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Recettes" />
@@ -25,7 +25,9 @@ const currentRecipe = Astro.url.toString().split("/")[4];
     {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
   </head>
   <body>
-    <slot />
+    <main>
+      <slot />
+    </main>
 
     <footer class="footer text-center">
       <p>

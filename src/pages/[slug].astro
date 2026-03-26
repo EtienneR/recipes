@@ -2,7 +2,6 @@
 import type { GetStaticPaths } from "astro";
 import type { CollectionEntry } from "astro:content";
 import { getCollection, render } from "astro:content";
-import { getTypeClass } from "../helpers";
 import Layout from "../layouts/Layout.astro";
 
 import type { z } from "zod";
@@ -23,9 +22,7 @@ export const getStaticPaths = (async () => {
 type Props = Awaited<ReturnType<typeof getStaticPaths>>[number]["props"];
 
 const { entry } = Astro.props as Props;
-const { title, type, ingredients, directions } = entry.data;
-const { Content } = await render(entry);
-const hasContent = Boolean(entry.body?.trim());
+const { title, ingredients, directions } = entry.data;
 ---
 
 <Layout title={title}>
