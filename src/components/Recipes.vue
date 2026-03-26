@@ -11,7 +11,10 @@ const props = defineProps({
 const query = ref("");
 
 const normalize = (str) =>
-  str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  str
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
 
 const filteredRecipes = computed(() => {
   if (!query.value) return props.recipes;
@@ -27,7 +30,8 @@ const filteredRecipes = computed(() => {
     <div class="text-center">
       <h1>
         <span class="highlight highlight-primary">
-          Recettes ({{ filteredRecipes.length }})</span>
+          Recettes ({{ filteredRecipes.length }})</span
+        >
       </h1>
       <input
         v-model="query"
@@ -40,20 +44,12 @@ const filteredRecipes = computed(() => {
   </section>
 
   <div class="container-lg">
-    <div class="grid grid-cols-3 gap-grid-md">
-      <div
-        v-for="recipe in filteredRecipes"
-        :key="recipe.id"
-        class="p-md border"
-      >
-        <article>
-          <p>
-            <a :href="recipe.id" class="neo-btn neo-btn-lg neo-btn-secondary">{{
-              recipe.data.title
-            }}</a>
-          </p>
-        </article>
-      </div>
-    </div>
+    <ul class="grid grid-cols-3 gap-grid-md">
+      <li v-for="recipe in filteredRecipes" :key="recipe.id" class="no-list">
+        <p class="neo-btn neo-btn-lg neo-btn-secondary">
+          <a :href="recipe.id">{{ recipe.data.title }}</a>
+        </p>
+      </li>
+    </ul>
   </div>
 </template>
