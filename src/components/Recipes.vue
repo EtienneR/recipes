@@ -46,9 +46,7 @@ const filteredRecipes = computed(() => {
   <div class="container-lg">
     <ul class="grid grid-cols-3 gap-grid-md">
       <li v-for="recipe in filteredRecipes" :key="recipe.id" class="no-list">
-        <p class="neo-btn neo-btn-lg neo-btn-secondary">
-          <a :href="recipe.id">{{ recipe.data.title }}</a>
-        </p>
+        <a :href="recipe.id" class="neo-btn neo-btn-lg neo-btn-secondary">{{ recipe.data.title }}</a>
       </li>
     </ul>
   </div>
