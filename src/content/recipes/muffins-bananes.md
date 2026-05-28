@@ -5,7 +5,7 @@ ingredients:
   - list:
     - 170 g de farine
     - 1⁄2 sachet de levure chimique
-    - 100 g de cassonade
+    - 100 g de sucre de canne
     - 1 pincée de sel
     - 1 œuf
     - 10 cl d’huile végétale neutre
@@ -14,10 +14,10 @@ ingredients:
     - 1 CàC de cannelle en poudre
 directions:
   - list:
-    - Préchauffer le four à 180°C (chaleur tournante).
+    - Préchauffer le four à 180°C.
     - Dans un saladier, mélanger la farine, la levure, le sucre et le sel.
     - Dans un cul de poule, battre l’œuf avec un fouet. Ajouter l’huile, le miel, les bananes écrasées et la cannelle.
     - Transvaser le précédent mélange dans le saladier et mélanger jusqu’à ce que la pâte devienne homogène (pas plus).
-    - Répartir la préparation dans les moules à muffins aux 3⁄4.
-    - Enfourner 22 mins à 180°C. 
+    - Répartir la préparation dans les moules à muffins (préalablement beurrés si non silicone) aux 3⁄4.
+    - Enfourner 22 mins à 180°C (chaleur tournante). 
 ---
