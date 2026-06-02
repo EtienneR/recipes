@@ -6,7 +6,7 @@ ingredients:
     - 2 oranges (moyennes) BIO
     - 130 g du sucre de canne
     - 3 œufs
-    - 250 g de farine de blé
+    - 250 g de farine de blé (ou 100 g de farine de petit épeautre et 150 de farine de blé)
     - 1 sachet de levure chimique
     - 15 cl d'huile d'olive
     - 1 pincée de sel
