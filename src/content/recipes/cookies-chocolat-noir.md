@@ -11,7 +11,7 @@ ingredients:
     - 1/2 CàC de bicarbonate de sodium
 directions:
   - list:
-    - Dans un grand bol, fondre le chocolat et le morceau en morceaux au bain-marie.
+    - Dans un grand bol, fondre le chocolat et le beurre en morceaux au bain-marie.
     - Dans un saladier, blanchir l'œufs avec le sucre.
     - Ajouter le chocolat et beurre fondu et bien mélanger
     - Ajouter la farine avec le bicarbonate en deux fois afin d'obtenir un mélange homogène.
