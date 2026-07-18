@@ -6,7 +6,7 @@ ingredients:
     - 180 g de blancs d'œufs (environ 5 œufs)
     - 1 pincée de sel
     - 320 g de farine
-    - 1/2 sachet de levure chimique
+    - 1⁄2 sachet de levure chimique
     - 2 CàS de sucre roux
     - 33 cl de lait entier (ou demi-écrémé)
     - 4 CàS d'huile végétale neutre

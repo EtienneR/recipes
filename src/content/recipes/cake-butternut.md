@@ -8,7 +8,7 @@ ingredients:
     - 30 g d’huile neutre (colza)
     - 1 CàS d’arôme de vanille
     - 250 g de farine
-    - 1/2 sachet de levure chimique
+    - 1⁄2 sachet de levure chimique
     - 75 g du sucre de canne
     - 1 CàC de cannelle en poudre
     - 1 CàC de 4 épices

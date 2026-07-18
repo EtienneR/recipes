@@ -10,6 +10,6 @@ ingredients:
 directions:
   - list:
     - Laver les abricots, couper les en 2 afin de retirer le noyau. Couper de nouveau en 2 chaque moitié et les diposer dans un grand bol. Verser la fleur d’oranger et mélanger délicatement.
-    - Dans un robot muni d’une lame en forme de "S", disposer les abricot, le sucre et le blanc d’oœuf et mixer pendant 5 mins (laisser l’air rentrer dans le robot lors du mixage).
+    - Dans un robot muni d’une lame en forme de "S", disposer les abricot, le sucre et le blanc d’œuf et mixer pendant 5 mins (laisser l’air rentrer dans le robot lors du mixage).
     - Garnir délicatement environ 4 ramequins et mettre au réfrigérateur environ 2 h avant de déguster bien frais. 
 ---

@@ -10,7 +10,7 @@ ingredients:
     - 10 cl d’huile
     - 100 g de Comté rapés
     - 180 g de farine
-    - 1/2 sachet de levure chimique
+    - 1⁄2 sachet de levure chimique
     - poivre
 directions:
   - list:
