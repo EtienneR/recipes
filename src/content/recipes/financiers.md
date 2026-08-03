@@ -17,3 +17,5 @@ directions:
     - Préchauffer le four à 200°C.
     - Remplir les moules avec une CàS et enfourner 15 min à 180°C.
 ---
+
+Tester avec 70 g de poudre de cacahuète et 110 g de beurre

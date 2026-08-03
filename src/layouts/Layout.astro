@@ -1,6 +1,6 @@
 ---
 import "../styles/global.css";
-import { pwaInfo } from "virtual:pwa-info";
+import { pwaInfo } from 'virtual:pwa-info'
 
 export interface Props {
   title: string;
@@ -21,8 +21,8 @@ const currentRecipe = Astro.url.toString().split("/")[4];
     <meta name="theme-color" content="#fff" />
     <link rel="icon" href="/recipes/favicon.svg" type="image/svg+xml" />
     <title>{title}</title>
+    { pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} /> }
     <script src="/src/pwa.ts"></script>
-    {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
   </head>
   <body>
     <main>
