@@ -1,5 +1,5 @@
 ---
-title: Flan pâtissier à la frambroise
+title: Flan pâtissier aux framboises
 type: sucré
 ingredients:
   - step: Pour la pâte brisée
@@ -11,7 +11,7 @@ ingredients:
       - 8 cl d’eau
   - step: Pour le flan
     list:
-      - 250 g de frambroises (brisures ou entières)
+      - 250 g de framboises (brisures ou entières)
       - 1 l de lait entier
       - 2 CàS d’arôme de vanille
       - 4 œufs
@@ -29,9 +29,9 @@ directions:
       - Réserver de nouveau au réfrigérateur.
   - step: Préparation de l’appareil à flan
     list:
-      - Dans un mixeur, mixer les frambroises jusqu’à obtenir une purée. Réserver.
+      - Dans un mixeur, mixer les framboises jusqu’à obtenir une purée. Réserver.
       - Dans une grande casserole, porter le lait et l’arôme de vanille jusqu'en début d'ébullition.
-      - Pendant ce temps, dans un saladier, battre les œufs avec le sucre. Puis, y ajouter progressivement la Maïzena et enfin, la purée de frambroises.
+      - Pendant ce temps, dans un saladier, battre les œufs avec le sucre. Puis, y ajouter progressivement la Maïzena et enfin, la purée de framboises.
       - Verser dessus le lait bouillant puis reporter sur le feu et laisser cuire 30 secondes après la reprise de l’ébullition.
   - step: Montage
     list:

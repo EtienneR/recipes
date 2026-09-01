@@ -3,20 +3,20 @@ title: Pancakes
 type: sucré
 ingredients:
   - list:
-    - 180 g de blancs d'œufs (environ 5 œufs)
+    - 250 g de farine de blé
+    - 1 CàS de lait en poudre toasté (facultatif)
+    - 1 CàS de sucre de canne
+    - 1 CàC de bicarbonate de soude
     - 1 pincée de sel
-    - 320 g de farine
-    - 1⁄2 sachet de levure chimique
-    - 2 CàS de sucre roux
-    - 33 cl de lait entier (ou demi-écrémé)
-    - 4 CàS d'huile végétale neutre
-    - 1 CàC d'arôme de vanille (facultatif)
+    - 1 œuf (ou 1 blanc d’œuf + 60 ml d’eau)
+    - 25 cl de lait entier
+    - 2 CàS d’huile neutre
+    - 1 CàS de vinaigre de cidre
 directions:
   - list:
-    - Monter les blancs en neige avec la pincée de sel. Réserver.
-    - Dans un grand saladier, mélanger la farine, la levure, le sucre. Faire un puit afin d'y incorporer le lait, l'huile et l'arôme de vanille. Bien mélanger à l'aider d'un fouet.
-    - Incorporer délicatement les blancs au mélange à l'aide d'une maryse.
-    - Laisser reposer la pâte minimum 30 mins au frigo. 
-    - Chauffer la poêle avec de la matière grasse et verser une petite louche de pâte.
-    - Laisser la pâte cuire et retourner-la une fois que se forment des petites bulles (encore 10 secondes environs).
+    - Dans un saladier, mélanger les ingrédients secs (farine, lait en poudre toasté, sucre, bicarbonate et sel).
+    - Dans un autre bol, battre les ingrédients liquides (l’œuf, le lait, l’huile et le vinaigre de cidre).
+    - Verser les ingrédients liquides sur les ingrédients secs et mélanger juste assez pour homogénéiser (la pâte doit être légèrement grumeleuse).
+    - Laisser reposer 10 minutes (le vinaigre et le bicarbonate vont réagir et rendre la pâte mousseuse).
+    - Préchauffer la poêle avec de la matière grasse puis verser une petite louche de pâte. Attendre que des bulles se forment à la surface du pancake, puis retourner le et réserver le dans une assiette. Répéter l’opération jusqu’à épuisement de la pâte.
 ---

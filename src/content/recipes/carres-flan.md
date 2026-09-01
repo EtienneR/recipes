@@ -25,7 +25,7 @@ directions:
     list:
       - Dans une casserole, porter le lait avec l’eau de fleur d’oranger jusqu’en début d’ébullition.
       - En parallèle, dans un cul de poule, battre les œufs et le sucre. Puis ajouter la maïzena en deux fois. Verser dessus le lait bouillant dans le mélange et remuer.
-      - Reverser la préparation dans la casserole à feu doux et en remuant le mélange à l’aide d’une spatule jusqu’à la reprise de l’ ébullition puis retirer la casserole du feu. Lisser le mélange.
+      - Reverser la préparation dans la casserole à feu doux et en remuant le mélange à l’aide d’une spatule jusqu’à la reprise de l’ébullition puis retirer la casserole du feu. Lisser le mélange.
       - Verser la préparation sur le fond de la pâte encore chaude à l’aide d’une maryse.
       - Enfourner pour 25 min à 170°C (chaleur tournante).
 ---
