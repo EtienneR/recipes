@@ -20,7 +20,7 @@ directions:
     - Incorporer les flocons d’avoine, la farine d’épeautre, la levure, les noix, le chocolat et mixer jusqu’à obtenir un mélange homogène (ne pas pétrir).
     - Transvaser la pâte dans un grand saladier et réserver la pâte à cookies au réfrigérateur pendant 1 heure.
     - Préchauffer le four à 160°C.
-    - Sur 2 plaques de cuisson recouvertes de papier cuisson, étaler les cookies à l’aide d’une cuillère à boule de glace remplie à raz bord. Applatir les boules l’aide de la paume des mains.
+    - Sur 2 plaques de cuisson recouvertes de papier cuisson, étaler les cookies à l’aide d’une cuillère à boule de glace remplie à raz bord. Applatir les boules à l’aide de la paume des mains.
     - Enfourner les cookies pendant 18 minutes à 160°C (chaleur tournante).
     - Sortir les plaques du four et laisser refroidir les cookies à l’air libre puis les conserver dans une boite hermétique.
 ---
