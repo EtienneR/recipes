@@ -3,6 +3,7 @@ title: Cinnamon Rolls
 type: sucré
 ingredients:
   - step: Pour le tangzhong
+    list:
       - 5 cl d’eau
       - 5 cl de lait entier
       - 20 g de farine
