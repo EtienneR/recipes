@@ -26,7 +26,7 @@ directions:
     list:
       - Dans un cul de poule, mélanger le sucre avec les zestes du pomélo
       - Fouetter les œufs avec le sucre.
-      - Ajouter la Maïzen en plusieurs fois puis le jus de pomélo.
+      - Ajouter la Maïzena en plusieurs fois puis le jus de pomélo.
       - Sortir le moule du four (garder la température du four à 170°C)
       - Verser la préparation sur le fond de la pâte encore chaude.
       - Enfourner 20 min à 170°C.

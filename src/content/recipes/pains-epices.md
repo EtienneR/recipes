@@ -3,18 +3,19 @@ title: Pain d’épices
 type: sucré
 ingredients:
   - list:
-    - 2 tasses à café de miel (de forêt ou de montagne ou 50/50)
-    - 2 tasses à café de lait
+    - 250 g de miel (de forêt, de montagne ou de châtaignier )
+    - 20 cl de lait
     - 125 g de farine de blé
     - 125 g de farine de seigle (ou 125 g de farine de blé)
-    - 1 CàC de poudre d’anis (ou mélange 1 CàC de 4 épices + 1 CàC de cannelle moulue)
     - 1⁄2 sachet de levure chimique
+    - 1 CàC de poudre d’anis (ou mélange 1 CàC de 4 épices + 1 CàC de cannelle moulue)
 directions:
   - list:
-    - Chauffer doucement (sans bouillir) dans une casserole le miel et le lait.
-    - Dans un saladier, mélanger farine, l'anis et faire un puit.
+    - Chauffer très doucement (sans bouillir) dans une casserole le miel et le lait. Laisser tiédir.
+    - Dans un saladier, mélanger les farines, la levure chimique et l’anis et faire un puit.
     - Ajouter le contenu de la casserole dans le saladier et bien mélanger.
     - Verser le mélange dans un moule à cake (22 cm de longueur).
     - Préchauffer le four à 150°C.
-    - Enfourner le moule pour 45 min.
+    - Enfourner le moule pour 60 min (chaleur statique).
+    - Attendre que le moule tiédisse pour démouler. Emballer hermétiquement le pain d’épices dans du film plastique alimentaire et attendre au mimium 24 h avant dégustation.
 ---
